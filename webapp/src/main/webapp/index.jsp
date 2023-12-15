@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>  mobile offers are avail till 01 jan 2024........... </h1>   
+         <h1>  nani gadu peddha langa na koduku. </h1>   
 	 
 
     </section>    
